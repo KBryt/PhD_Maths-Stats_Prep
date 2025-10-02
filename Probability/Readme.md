@@ -2,3 +2,5 @@ https://ocw.mit.edu/courses/18-440-probability-and-random-variables-spring-2014/
 
 
 [Questions](https://www.youtube.com/watch?v=Nw3atKtmj-4&list=PLPpO9TjJ-z39n-Yxcm5QVGwV-4_ZXAftQ&index=78)
+
+[Branching Process](https://www.youtube.com/watch?v=TsOPFKQmuDc&list=PLRogqfr-vZMfvcLjjmXnb0wk6MPTzhph-)
